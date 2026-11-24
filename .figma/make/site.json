@@ -1,0 +1,11 @@
+{
+  "title": "Poulami-UX/UI-Portfolio",
+  "description": "Showcase your design skills with a simple and minimal portfolio website tailored for UI/UX designers, enhancing visibility and attracting potential clients.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
