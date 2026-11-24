@@ -13,7 +13,7 @@ export function Hero() {
   return (
     <section
       id="hero"
-      className="min-h-screen flex items-center justify-center px-4 sm:px-6 pt-24 sm:pt-20 pb-12 relative overflow-hidden"
+      className="min-h-screen flex items-center justify-center px-4 sm:px-6 pt-36 sm:pt-40 lg:pt-44 pb-12 relative overflow-hidden"
     >
       {/* Subtle animated background elements */}
       <motion.div
